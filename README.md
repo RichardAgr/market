@@ -1,5 +1,5 @@
 # UrbanMarket
-Proyecto procesos ágiles 2-2023
+Proyecto 
 
 Este proyecto esta construido con [Next.js](https://nextjs.org/docs) y [Laravel 8](https://laravel.com/api/8.x/)
 ## Requerimientos
